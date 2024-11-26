@@ -16,7 +16,7 @@ spec:
         app: web-app
     spec:
       containers:
-      - name: diplom-test-site
+      - name: diplom-site
         image: aabelyaev/diplom-site:0.1
         resources:
           requests:

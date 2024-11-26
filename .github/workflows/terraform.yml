@@ -28,9 +28,9 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      TOKEN: ${{ secrets.YC_TOKEN }}
-      CLOUD_ID: ${{ secrets.YC_CLOUD_ID }}
-      FOLDER_ID: ${{ secrets.YC_FOLDER_ID }}
+      TOKEN: y0_AgAAAAA2xOSPAATuwQAAAAD7ijq-AABNACYUeAtBQIIrRKptt8ez54-o8w
+      CLOUD_ID: b1g6a352ou90e197kv82
+      FOLDER_ID: b1g5ieb5bk4l8le8nmh4
       AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY }}
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_KEY }}
       TF_VAR_ssh_public_key: ${{ secrets.SSH_PUBLIC_KEY }}

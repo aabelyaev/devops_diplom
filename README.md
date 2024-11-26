@@ -2,10 +2,10 @@
 
 ## Создание облачной инфраструктуры
 
-![1.png](img/1.png)
-![2.png](img/2.png)
-![3.png](img/3.png)
-![4.png](img/4.png)
+<image src="img/1.png">
+<image src="img/2.png">
+<image src="img/3.png">
+<image src="img/4.png">
 Удалю все созданые ресурсы
-![5.png](img/5.png)
-![6.png](img/6.png)
+<image src="img/5.png">
+<image src="img/6.png">

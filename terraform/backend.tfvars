@@ -1,2 +1,0 @@
-export ACCESS_KEY=YCAJEgWj9OOkaXgOO4BzYYf8G
-export SECRET_KEY=YCOqeZ4rGg0hQRD-25wcOjafnfwoE-2u5l9T-mls

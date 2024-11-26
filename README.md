@@ -9,3 +9,11 @@
 Удалю все созданые ресурсы
 <image src="IMG/5.png">
 <image src="IMG/6.png">
+<image src="IMG/7.png">
+<image src="IMG/8.png">
+
+## Создание Kubernetes кластера
+
+
+
+

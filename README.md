@@ -55,3 +55,13 @@ Kubernetes кластер доступен с рабочей машины.
 ## Установка и настройка CI/CD
 <image src="IMG/21.png">
 <image src="IMG/22.png">
+
+
+Доступы
+
+Grafana
+http://130.193.56.174:3000/
+admin
+admin
+
+

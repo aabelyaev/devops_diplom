@@ -46,10 +46,9 @@ Kubernetes кластер доступен с рабочей машины.
 Проверю работу балансировщика нагрузки. Тестовое приложение будет открываться по порту 80, а Grafana будет открываться по порту 3000
 <image src="IMG/19.png">
 <image src="IMG/20.png">
-<image src="IMG/23.png">
 
 ## Установка и настройка CI/CD
-<image src="IMG/21.png">
+<!-- <image src="IMG/21.png"> -->
 <image src="IMG/22.png">
 
 

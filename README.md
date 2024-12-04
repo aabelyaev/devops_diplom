@@ -51,6 +51,8 @@ Kubernetes кластер доступен с рабочей машины.
 <!-- <image src="IMG/21.png"> -->
 <image src="IMG/22.png">
 
+Ссылка на diplom-site
+https://github.com/aabelyaev/diplom-site
 
 Доступы
 
